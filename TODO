@@ -1,0 +1,3 @@
+- Create secret credentials related config for namespaces
+- Give service principal access to fucking keyvault and use application id
+- Check if other permissions use application id for service principals
